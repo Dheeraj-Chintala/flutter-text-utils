@@ -1,7 +1,9 @@
 name: flutter_text_utils
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Dheeraj-Chintala/flutter-text-utils
+repository: https://github.com/Dheeraj-Chintala/flutter-text-utils
+issue_tracker: https://github.com/Dheeraj-Chintala/flutter-text-utils/issues
 
 environment:
   sdk: ^3.9.0
