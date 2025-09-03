@@ -1,5 +1,5 @@
 name: flutter_text_utils
-description: "A new Flutter package project."
+description: "A lightweight Flutter/Dart package with handy string utilities like capitalize, reverse, mask, email & password validation, and more."
 version: 0.0.1
 homepage: https://github.com/Dheeraj-Chintala/flutter-text-utils
 repository: https://github.com/Dheeraj-Chintala/flutter-text-utils
