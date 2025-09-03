@@ -58,10 +58,10 @@ void main() {
 
 Additional information
 
-- Issues & Feedback → Please file issues on the GitHub issue tracker.
-
 - Contributions → Pull requests are welcome!
 
-- License → This project is licensed under the MIT License.
+- Issues & Feedback → Please file issues on the GitHub issue tracker.
+
+- License → This project is licensed under the [MIT License](LICENSE).
 
 
