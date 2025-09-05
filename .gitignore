@@ -29,3 +29,21 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 /build/
 /coverage/
+
+# Dart / Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDEs
+.idea/
+.vscode/
+
+# Platforms (not needed for a package)
+android/
+ios/
+web/
+windows/
+macos/
+linux/
