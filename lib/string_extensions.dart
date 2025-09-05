@@ -115,14 +115,13 @@ extension FlutterTextUtils on String {
 
   num? get safeToNum => num.tryParse(this);
 
-
-static String generateShortId([int length = 8]) {
-  if (length <= 0) return '';
-  const chars = 'abcdefghijklmnopqrstuvwxyz0123456789';
-  final rand = Random.secure(); // better randomness
-  return List.generate(
-    length,
-    (i) => chars[rand.nextInt(chars.length)],
-  ).join();
-}
+  static String generateShortId([int length = 8]) {
+    if (length <= 0) return '';
+    const chars = 'abcdefghijklmnopqrstuvwxyz0123456789';
+    final rand = Random.secure(); // better randomness
+    return List.generate(
+      length,
+      (i) => chars[rand.nextInt(chars.length)],
+    ).join();
+  }
 }

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d58,100:4285F4&height=200&section=header&text=Text%20Transformation%20And%20%20Validation%20Toolkit&fontSize=30&fontColor=ffffff" />
+</p>
+
 A lightweight  package with handy string utilities like `capitalize`, `mask`, `reverse`, email & password validation, **text analysis**, **case conversions**, **Base64 encoding/decoding**, and more.  
 This package is great for quickly handling common string transformations, validations, and lightweight utilities.  
 
