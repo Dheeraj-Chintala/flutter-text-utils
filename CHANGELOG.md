@@ -8,7 +8,6 @@
   - `mask`
   - `reverse`
 
----
 
 ## 0.1.0
 ### Added Features
@@ -33,3 +32,6 @@
 - `decodeBase64`
 - `safeToNum`
 - `generateShortId`
+
+## 0.1.1
+- Updated package description.

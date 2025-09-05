@@ -1,5 +1,5 @@
 name: flutter_text_utils
-description: "A lightweight package offering powerful string utilities including capitalization, masking, reversing, email validation, password strength checking, text analysis (word/char/sentence counts), case conversions (camel, snake, kebab, pascal), Base64 encoding/decoding, safe number parsing, and short ID generation.."
+description: "An efficient and powerful toolkit for string manipulation, text analysis and form validation."
 version: 0.1.0
 homepage: https://github.com/Dheeraj-Chintala/flutter-text-utils
 repository: https://github.com/Dheeraj-Chintala/flutter-text-utils
